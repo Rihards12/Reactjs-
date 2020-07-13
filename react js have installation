@@ -1,0 +1,37 @@
+Create React App
+In order to learn and test React, you should set up a React Environment on your computer.
+
+This tutorial uses the create-react-app.
+
+The create-react-app is an officially supported way to create React applications.
+
+If you have NPM and Node.js installed, you can create a React application by first installing the create-react-app.
+
+Install create-react-app by running this command in your terminal:
+
+C:\Users\Your Name>npm install -g create-react-app
+You are now ready to create your first React application!
+
+Run this command to create a React application named myfirstreact:
+
+C:\Users\Your Name>npx create-react-app myfirstreact
+The create-react-app will set up everything you need to run a React application.
+
+Note: This tutorial uses create-react-app to demonstrate React examples. You will not be able to run the same examples on your computer if you do not install the create-react-app environment.
+
+Run the React Application
+If you followed the two commands above, you are ready to run your first real React application!
+
+Run this command to move to the myfirstreact directory:
+
+C:\Users\Your Name>cd myfirstreact
+Run this command to execute the React application myfirstreact:
+
+C:\Users\Your Name\myfirstreact>npm start
+A new browser window will pop up with your newly created React App! If not, open your browser and type localhost:3000 in the address bar.
+
+The result:
+
+
+
+You will learn more about the create-react-app in the React Get Started chapter.
